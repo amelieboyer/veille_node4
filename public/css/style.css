@@ -11,4 +11,5 @@ label {
 }
 div {
   background-color: #ffffff;
+  display: flex;
 }
