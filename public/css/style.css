@@ -3,6 +3,7 @@ body {
 }
 input {
   margin: 8px;
+  padding: 5px;
 }
 label {
   font-family: 'Questrial';
