@@ -12,4 +12,6 @@ label {
 div {
   background-color: #ffffff;
   display: flex;
+  height: 300px;
+  width: 250px;
 }
